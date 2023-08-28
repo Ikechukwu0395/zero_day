@@ -1,1 +1,1 @@
-never forget to git pus
+never forget to git push
